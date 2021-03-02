@@ -1,5 +1,5 @@
 # 16x2_LCD-master
-A simple to use library to control 16x2 LCD using Embedded-C
+A simple to use library to control 16x2 LCD
 
 All the neccessary connections are described in the library itself.
 
